@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="redfire_reverse_proxy">
+        <wb-resource deploy-path="/" source-path="/web" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/" source-path="/resource"/>
+        <wb-resource deploy-path="/" source-path="/test"/>
+        <property name="context-root" value="redfire_reverse_proxy"/>
+        <property name="java-output-path" value="/redfire_reverse_proxy/build/classes"/>
+    </wb-module>
+</project-modules>
